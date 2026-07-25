@@ -81,21 +81,15 @@ Passionate about Computer Science, Competitive Programming, and building impactf
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KunalKundaliya&show_icons=true&theme=github_dark&hide_border=true"/>
+<br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKundaliya&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=KunalKundaliya&theme=github-dark-blue&hide_border=true" />
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKundaliya&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
