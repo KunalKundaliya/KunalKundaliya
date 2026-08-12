@@ -1,10 +1,10 @@
-# Hey, I'm Kunal 👋
+# Hey, I'm Kunal
 
 ### B.Tech CSE @ MNNIT Allahabad
 
 I'm a second-year Computer Science student who enjoys **solving problems, building things, and learning by doing**.
 
-Currently exploring **software development, DSA, backend technologies, and real-world projects**. I like participating in hackathons, working with people, and turning ideas into something that actually works.
+Currently exploring **software development, backend technologies, DSA, and real-world projects**. I enjoy participating in hackathons, collaborating with others, and turning ideas into practical solutions.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KunalKundaliya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -12,19 +12,19 @@ Currently exploring **software development, DSA, backend technologies, and real-
 
 ---
 
-## 👨‍💻 A Little About Me
+## About Me
 
-* 🎓 CSE student at **MNNIT Allahabad**
-* 🧩 Enjoy solving **DSA & competitive programming** problems
-* 💻 Building projects with **JavaScript, React, Node.js & databases**
-* 🚀 Love experimenting with new technologies through projects and hackathons
-* 🤝 Always happy to collaborate, learn from others and build something useful
-* 🌱 Currently improving my **DSA, backend development and CS fundamentals**
-* ☕ Probably learning something new while debugging something else
+* CSE student at **MNNIT Allahabad**
+* Interested in **software development and problem solving**
+* Building projects with **JavaScript, React, Node.js and databases**
+* Exploring backend development and software engineering
+* Enjoy participating in **hackathons and technical projects**
+* Interested in understanding how real-world software systems are built
+* Always open to collaboration, new ideas and learning from others
 
 ---
 
-## 🛠️ Technologies I Work With
+## Technologies I Work With
 
 ### Languages
 
@@ -46,92 +46,58 @@ Currently exploring **software development, DSA, backend technologies, and real-
 
 ---
 
-## 🚀 Things I've Been Building
+## Things I've Been Building
 
-### 🌊 AquaNova
+### Ethereum
 
-A youth-focused platform around **ocean and coral reef conservation**, designed to make environmental participation more interactive and engaging.
+A project exploring **Ethereum and blockchain-based application development**, with a focus on understanding how decentralized applications interact with the Ethereum ecosystem.
 
-**Built with:** `Next.js` `TypeScript` `Tailwind CSS` `React` `MongoDB`
+The project explores concepts around **blockchain, smart contracts, Web3 interaction and decentralized applications**.
 
-🔗 [Repository](#) • [Live Demo](#)
+**Repository:**
+https://github.com/KunalKundaliya/Ethereum
+
+**Technologies:** `JavaScript` `Ethereum` `Web3` `Smart Contracts`
 
 ---
 
-### 🐋 DeepSea Guardian
+### DeepSea Guardian
 
 An environmental awareness platform focused on **marine life, wildlife contributions and community engagement**.
 
-**Built with:** `React` `JavaScript` `Node.js` `MongoDB`
+The project explores how technology can be used to create an interactive platform for environmental awareness and community participation.
 
-🔗 [Repository](#) • [Live Demo](#)
-
----
-
-### 💡 More Coming Soon...
-
-I'm constantly experimenting with new ideas, so this section will keep growing.
-
-👉 [Explore my repositories](https://github.com/KunalKundaliya?tab=repositories)
+**Technologies:** `React` `JavaScript` `Node.js` `MongoDB`
 
 ---
 
-## 🧠 Competitive Programming
-
-I enjoy competitive programming because it teaches me to think beyond just writing code — **understanding the problem, finding patterns, optimizing solutions and handling edge cases.**
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Kunal_K008/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/nepalkunal16">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/husk_shop_31">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/kunal008">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/nepalkunal16">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-## 🌱 Currently Learning
+## Currently Learning
 
 * Data Structures & Algorithms
-* React & modern JavaScript
-* Node.js & Express
+* React and modern JavaScript
+* Node.js and Express
 * REST APIs
-* MongoDB & MySQL
+* MongoDB and MySQL
 * Database Design
-* Linux & Docker
+* Linux and Docker
 * System Design fundamentals
+* Blockchain and Web3 fundamentals
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 * Solve **500+ DSA problems**
-* Build projects that solve **real problems**
-* Participate in more **hackathons**
-* Contribute to **open source**
-* Strengthen core CS fundamentals
-* Get better at writing **clean, maintainable code**
-* Learn how real software systems are designed and deployed
+* Build projects that solve meaningful problems
+* Participate in more hackathons
+* Contribute to open source
+* Strengthen core Computer Science fundamentals
+* Write cleaner and more maintainable code
+* Understand how real-world software systems are designed and deployed
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -150,5 +116,5 @@ I enjoy competitive programming because it teaches me to think beyond just writi
 </p>
 
 <p align="center">
-  <i>Build. Learn. Break things. Fix them. Repeat. 🚀</i>
+  <i>Build. Learn. Improve.</i>
 </p>
