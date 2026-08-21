@@ -1,31 +1,27 @@
 # Hey, I'm Kunal
 
-### B.Tech CSE @ MNNIT Allahabad
+**B.Tech CSE @ MNNIT Allahabad**
 
-I'm a second-year Computer Science student interested in **software development, problem solving, and building things that solve real problems**.
+I'm a Computer Science student interested in **software engineering, problem solving, and building practical software**.
 
-I enjoy learning through projects, hackathons and experimentation — currently exploring **backend development, databases, machine learning fundamentals and modern web technologies**.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalKundaliya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+I learn primarily by building projects, experimenting with new technologies, and understanding how things work beyond the surface. My current focus is on **backend development, databases, machine learning fundamentals, and modern web development**.
 
 ---
 
-## About Me
+## About
 
-* CSE student at **MNNIT Allahabad**
-* Interested in **software engineering and problem solving**
-* Building with **JavaScript, React, Node.js and databases**
-* Exploring **machine learning and deep learning fundamentals**
-* Enjoy building projects and participating in **hackathons**
-* Interested in backend systems, APIs and database design
-* Learning how real-world software is designed, built and deployed
-* Always open to interesting projects and collaborations
+* 🎓 B.Tech Computer Science student at MNNIT Allahabad
+* 💻 Interested in software engineering, backend development, and problem solving
+* 🧩 Practising Data Structures & Algorithms and strengthening core CS fundamentals
+* 🌐 Building applications with JavaScript, React, Node.js, and databases
+* 🤖 Learning machine learning, deep learning, and computer vision
+* 🛠️ Exploring APIs, database design, Linux, Docker, and system design
+* 🚀 Enjoy participating in hackathons and building projects from ideas to working prototypes
+* 📚 Interested in understanding how software is designed, developed, and deployed in real-world environments
 
 ---
 
-## Technologies I Work With
+## Tech Stack
 
 ### Languages
 
@@ -33,85 +29,111 @@ I enjoy learning through projects, hackathons and experimentation — currently 
   <img src="https://skillicons.dev/icons?i=cpp,c,java,js,python" />
 </p>
 
-### Development
+### Web & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-### Data, ML & Tools
+### Databases, ML & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch,git,github,linux,docker,vscode" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+> My primary goal is not to collect technologies, but to understand them well enough to build useful software.
 
 ---
 
-## Projects
+## Selected Projects
 
 ### DeepSea Guardian
 
-**Marine conservation × interactive web experience × AI-assisted exploration**
+A marine-conservation platform focused on making information about ocean conservation more accessible and engaging.
 
-DeepSea Guardian is an interactive marine-conservation platform designed to make ocean awareness more engaging through **exploration, conservation campaigns, volunteering, impact visualization and ReefLens**.
+The project combines interactive web experiences with features around **conservation campaigns, volunteering, impact visualization, and marine exploration**.
 
-I'm also exploring an ML/DL extension for ReefLens that can use **computer vision and image classification** to analyze marine imagery.
+I'm also exploring a computer-vision component for **ReefLens**, with the goal of learning how image classification and transfer learning can be applied to marine imagery.
 
-**Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Recharts`
+**Built with:** `React` `TypeScript` `Vite` `Tailwind CSS` `Recharts`
 
 **Exploring:** `Python` `Computer Vision` `CNNs` `Transfer Learning` `FastAPI`
 
-[View Project](https://github.com/KunalKundaliya/DeepSea-Guardian)
+[Repository](https://github.com/KunalKundaliya/DeepSea-Guardian)
 
 ---
 
 ### Ethereum
 
-A learning-focused project exploring the **Ethereum and blockchain ecosystem**.
+A learning-focused repository for understanding the fundamentals of **Ethereum, blockchain, and Web3**.
 
-The repository is part of my exploration into decentralized technologies and how blockchain-based applications work.
+The project is part of my broader effort to understand decentralized systems and how blockchain-based applications are structured.
 
 **Topics:** `Ethereum` `Blockchain` `Web3`
 
-[View Project](https://github.com/KunalKundaliya/Ethereum)
+[Repository](https://github.com/KunalKundaliya/Ethereum)
 
 ---
 
-## Currently Learning
+## What I'm Learning
+
+My current learning is centered around a few areas rather than trying to cover everything at once:
+
+**Computer Science**
 
 * Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management
+* Operating Systems
+* Computer Networks
+* System Design fundamentals
+
+**Software Development**
+
 * React and modern JavaScript
 * Node.js and Express
 * REST APIs
 * MongoDB and MySQL
-* Database Design
+* Backend architecture
+* Linux and Docker
+
+**Machine Learning**
+
 * Machine Learning fundamentals
 * Deep Learning fundamentals
 * Computer Vision
-* Linux and Docker
-* System Design fundamentals
+* CNNs and Transfer Learning
+
+**Other**
+
 * Blockchain and Web3
+* Open-source development
+* Software deployment
 
 ---
 
-## 2026 Goals
+## Beyond Code
 
-* Build more **real-world projects**
-* Strengthen **DSA and core CS fundamentals**
-* Learn and apply **ML/DL fundamentals**
-* Participate in more **hackathons**
-* Contribute to **open source**
-* Improve backend and system design skills
-* Write cleaner, more maintainable software
-* Learn by building, shipping and improving
+I enjoy working on problems where there isn't an obvious solution at the beginning.
+
+Hackathons and personal projects have been useful for me because they force me to move from **an idea → implementation → debugging → something that actually works**.
+
+I'm still early in my journey, so I'm more interested in building a strong foundation than trying to know everything at once.
 
 ---
 
-## Let's Connect
+## Currently
+
+* Building and improving personal projects
+* Practising DSA consistently
+* Learning backend development
+* Exploring ML/DL through small experiments
+* Working on hackathon ideas
+* Improving my understanding of software engineering fundamentals
+
+---
+
+## Connect
 
 <p align="center">
 
@@ -130,5 +152,5 @@ The repository is part of my exploration into decentralized technologies and how
 </p>
 
 <p align="center">
-  <i>Build. Learn. Improve.</i>
+  <i>Learning by building.</i>
 </p>
