@@ -1,72 +1,122 @@
 <div align="center">
 
-# Hi there, I'm Kunal Kundaliya
+# Hi, I'm Kunal Kundaliya 👋
 
-**B.Tech CSE @ MNNIT Allahabad** · Backend Development · Applied Machine Learning
+### B.Tech CSE @ MNNIT Allahabad · Backend Development · Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+practical+software;Learning+backend+architecture;Exploring+machine+learning" alt="Building practical software, learning backend architecture, exploring machine learning">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+practical+software;Learning+backend+architecture;Exploring+machine+learning;Solving+problems+with+code" alt="Typing animation">
 
 <br>
 
-<a href="https://www.linkedin.com/in/kunal-kundaliya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/KunalKundaliya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/kunal-kundaliya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/KunalKundaliya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KunalKundaliya&style=flat&color=2563EB&label=profile+views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=KunalKundaliya&style=flat&color=2563EB&label=Profile+Views" alt="Profile views">
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student focused on **software engineering, backend architecture, and problem-solving**. I like learning technologies by using them to build practical software, understanding how the pieces work together, and improving the result through iteration.
+I'm a **Computer Science student at MNNIT Allahabad** interested in building practical software and understanding how systems work behind the scenes.
 
-- 🎓 **Studying:** B.Tech in Computer Science at MNNIT Allahabad
-- 🏗️ **Building:** Aurora, a school management platform evolving from a desktop prototype into a full-stack product
-- 📚 **Learning:** FastAPI, PostgreSQL, and deep learning fundamentals
-- 💬 **Happy to discuss:** Backend APIs, database design, and Python
+My current focus is **backend development, databases, software engineering, and machine learning**. I enjoy turning ideas into working projects, debugging problems, and continuously improving my implementations.
 
-## Tech Stack
+* 🎓 **Education:** B.Tech in Computer Science & Engineering — MNNIT Allahabad
+* 🏗️ **Currently Building:** Aurora — a school management platform evolving into a full-stack application
+* 🌱 **Currently Learning:** FastAPI, PostgreSQL, Machine Learning & Deep Learning
+* 💻 **Interests:** Backend Development, APIs, Databases, DSA & AI/ML
+* 🤝 **Open to:** Software Engineering, Backend & AI/ML opportunities
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,cpp" alt="Java, Python, TypeScript, JavaScript, and C++">
+---
 
-**Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" alt="FastAPI, Node.js, Express, PostgreSQL, and MySQL">
+## 🛠️ Tech Stack
 
-**Machine Learning & Tools**  
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,linux,vscode" alt="PyTorch, scikit-learn, Git, GitHub, Linux, and VS Code">
+### Languages
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp" alt="Java, Python, TypeScript, JavaScript and C++">
 
-### [Aurora School Management Platform](https://github.com/KunalKundaliya/School_Demo)
-A school-management project exploring a path from a Python desktop portal to a full-stack product. It brings together a Tkinter student portal, a Next.js frontend, and an Express + MySQL backend.
+### Backend & Databases
 
-`Python` · `Tkinter` · `Next.js` · `Express` · `MySQL`
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" alt="FastAPI, Node.js, Express, PostgreSQL and MySQL">
 
-### [REEF — DeepSea Guardian](https://github.com/KunalKundaliya/DeepSea-Guardian)
-A marine-conservation experience centered on storytelling and volunteer engagement, with campaign pages, impact visualization, and donation flows. The current repository is frontend-only.
+### Machine Learning & Tools
 
-`React` · `TypeScript` · `Tailwind CSS` · `Vite`
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,linux,vscode" alt="PyTorch, scikit-learn, Git, GitHub, Linux and VS Code">
 
-### [Ethereum Playground](https://github.com/KunalKundaliya/Ethereum)
-An early-stage learning repository for blockchain fundamentals, smart contracts, and decentralized application structure.
+---
 
-`Ethereum` · `Solidity` · `Web3`
+## 🚀 Featured Projects
 
-## How I Work
+### 🏫 [Aurora — School Management Platform](https://github.com/KunalKundaliya/School_Demo)
 
-> “I enjoy working on problems where there isn't an obvious solution at the beginning.”
+A school-management platform exploring the transition from a Python desktop prototype into a modern full-stack application.
 
-I learn by moving from **idea → implementation → debugging → working prototype**. I value strong computer-science foundations, enjoy investigating why things break, and believe projects get better when people build together.
+The project combines a **Tkinter-based student portal**, **Next.js frontend**, and **Express + MySQL backend**.
 
-**Open to backend, software engineering, and AI/ML internship opportunities.** Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-kundaliya/).
+**Tech:** `Python` · `Tkinter` · `Next.js` · `Express` · `MySQL`
 
-## GitHub Activity
+---
+
+### 🌊 [REEF — DeepSea Guardian](https://github.com/KunalKundaliya/DeepSea-Guardian)
+
+A marine-conservation web experience focused on storytelling, awareness, volunteer engagement, impact visualization, and donation flows.
+
+**Tech:** `React` · `TypeScript` · `Tailwind CSS` · `Vite`
+
+---
+
+### ⛓️ [Ethereum Playground](https://github.com/KunalKundaliya/Ethereum)
+
+A learning-focused repository exploring **blockchain fundamentals, Ethereum, smart contracts, and decentralized application concepts**.
+
+**Tech:** `Ethereum` · `Solidity` · `Web3`
+
+---
+
+## 🧠 How I Learn & Build
+
+> **Idea → Implementation → Debugging → Improvement**
+
+I prefer learning by building rather than only following tutorials.
+
+I enjoy understanding **why something works, why it breaks, and how it can be improved**. I'm especially interested in problems involving backend systems, databases, algorithms, and machine learning.
+
+I also believe that good software comes from strong fundamentals, experimentation, and collaboration.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalKundaliya&show_icons=true&hide_border=true&theme=transparent" alt="Kunal's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKundaliya&layout=compact&hide_border=true&theme=transparent" alt="Kunal's most used programming languages">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalKundaliya&show_icons=true&hide_border=true&theme=transparent" alt="Kunal's GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKundaliya&layout=compact&hide_border=true&theme=transparent" alt="Kunal's most used programming languages">
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in discussing **software engineering, backend development, databases, machine learning, and interesting projects**.
+
+<a href="https://www.linkedin.com/in/kunal-kundaliya/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
+
+<br><br>
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
 </div>
