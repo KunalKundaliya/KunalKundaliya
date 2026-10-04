@@ -1,73 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Kunal Kundaliya</h1>
-
-<p align="center">
-  <b>B.Tech CSE @ MNNIT Allahabad</b> · Backend Development · Applied Machine Learning
-</p>
-
-<p align="center">
-  I'm a Computer Science student focused on <b>software engineering, backend architecture, and problem-solving</b>. I don't just collect technologies — I learn them to build practical, working software.
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/kunal-kundaliya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KunalKundaliya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+# Hi there, I'm Kunal Kundaliya
+
+**B.Tech CSE @ MNNIT Allahabad** · Backend Development · Applied Machine Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+practical+software;Learning+backend+architecture;Exploring+machine+learning" alt="Building practical software, learning backend architecture, exploring machine learning">
+
+<br>
+
+<a href="https://www.linkedin.com/in/kunal-kundaliya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/KunalKundaliya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KunalKundaliya&style=flat&color=2563EB&label=profile+views" alt="Profile views">
+
 </div>
 
 ---
 
-## ⚡ Quick Stats & Focus
+## About Me
 
-- 🎓 **Education:** B.Tech Computer Science @ MNNIT Allahabad
-- 💻 **Currently Building:** Aurora, a full-stack school management platform
-- 🧠 **Currently Learning:** Backend architecture with FastAPI + PostgreSQL, and deep learning fundamentals
-- 💬 **Ask Me About:** Backend APIs, database design, Python
+I'm a Computer Science student focused on **software engineering, backend architecture, and problem-solving**. I like learning technologies by using them to build practical software, understanding how the pieces work together, and improving the result through iteration.
 
----
+- 🎓 **Studying:** B.Tech in Computer Science at MNNIT Allahabad
+- 🏗️ **Building:** Aurora, a school management platform evolving from a desktop prototype into a full-stack product
+- 📚 **Learning:** FastAPI, PostgreSQL, and deep learning fundamentals
+- 💬 **Happy to discuss:** Backend APIs, database design, and Python
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=java,py,ts,js,cpp" /></p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,cpp" alt="Java, Python, TypeScript, JavaScript, and C++">
 
-**Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" /></p>
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" alt="FastAPI, Node.js, Express, PostgreSQL, and MySQL">
 
-**ML & Tools** *(learning)*
-<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,linux,vscode" /></p>
+**Machine Learning & Tools**  
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,linux,vscode" alt="PyTorch, scikit-learn, Git, GitHub, Linux, and VS Code">
 
----
+## Featured Projects
 
-## 🚀 Projects
+### [Aurora School Management Platform](https://github.com/KunalKundaliya/School_Demo)
+A school-management project exploring a path from a Python desktop portal to a full-stack product. It brings together a Tkinter student portal, a Next.js frontend, and an Express + MySQL backend.
 
-### 🏫 [Aurora School Management Platform](https://github.com/KunalKundaliya/School_Demo)
-> A multi-part school management demo exploring how an app evolves from a desktop tool into a full-stack product.
-- **What it is:** A Python/Tkinter student portal, paired with a Next.js frontend and an Express + MySQL backend.
-- **Stack:** `Python` `Tkinter` `Next.js` `Express` `MySQL`
+`Python` · `Tkinter` · `Next.js` · `Express` · `MySQL`
 
-### 🌊 [REEF — DeepSea Guardian](https://github.com/KunalKundaliya/DeepSea-Guardian)
-> A marine-conservation platform built around storytelling and volunteer engagement.
-- **What it is:** A React/TypeScript front-end covering campaigns, impact visualization, and donation flows. Front-end only for now — no backend yet.
-- **Stack:** `React` `TypeScript` `Tailwind CSS` `Vite`
+### [REEF — DeepSea Guardian](https://github.com/KunalKundaliya/DeepSea-Guardian)
+A marine-conservation experience centered on storytelling and volunteer engagement, with campaign pages, impact visualization, and donation flows. The current repository is frontend-only.
 
-### ⛓️ [Ethereum Playground](https://github.com/KunalKundaliya/Ethereum)
-> An early-stage repository for learning blockchain fundamentals.
-- **What it is:** A starting point for exploring smart contracts and decentralized application structure.
-- **Stack:** `Ethereum` `Solidity` `Web3`
+`React` · `TypeScript` · `Tailwind CSS` · `Vite`
 
----
+### [Ethereum Playground](https://github.com/KunalKundaliya/Ethereum)
+An early-stage learning repository for blockchain fundamentals, smart contracts, and decentralized application structure.
 
-## 🧠 How I Think & Work
+`Ethereum` · `Solidity` · `Web3`
 
-> *"I enjoy working on problems where there isn't an obvious solution at the beginning."*
+## How I Work
 
-I learn best by moving from **idea → implementation → debugging → a working prototype**. I'm not here to memorize syntax — I want to understand how things work under the hood.
+> “I enjoy working on problems where there isn't an obvious solution at the beginning.”
 
-- 🏗️ **Strong foundations first** — core CS concepts and system design over chasing the newest framework.
-- 🐛 **I enjoy the debug** — breaking things down to find out why they aren't working is half the fun.
-- 🤝 **I build better with others** — always open to pairing on a hackathon or side project.
+I learn by moving from **idea → implementation → debugging → working prototype**. I value strong computer-science foundations, enjoy investigating why things break, and believe projects get better when people build together.
 
-**Open to backend, SDE, and AI/ML internship opportunities — feel free to connect.**
+**Open to backend, software engineering, and AI/ML internship opportunities.** Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-kundaliya/).
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalKundaliya&show_icons=true&hide_border=true&theme=transparent" alt="Kunal's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKundaliya&layout=compact&hide_border=true&theme=transparent" alt="Kunal's most used programming languages">
+</div>
